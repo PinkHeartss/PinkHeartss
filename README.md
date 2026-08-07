@@ -1,7 +1,7 @@
 <p align="center">
   <font color="#f3b490">⏝꒷︶ ͡𑁬⁠♡໒ ͡ ︶꒷⏝</font>
-  
-</p>![PinkHeartss Banner](Banner.png)
+
+  ![PinkHeartss Banner](Banner.png)
 
 <p align="center">
   <sub>୨୧</sub>
