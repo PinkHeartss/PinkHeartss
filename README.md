@@ -33,7 +33,7 @@ $$ \color{#f3b490}{\text{Sanami shipper}} $$
 
 <p align="center">
 
-$$ \color{#f3b490}{\text{Minor}} $$
+$$ \color{#f3b490}{\text{!Minor!}} $$
 
 </p>
 
