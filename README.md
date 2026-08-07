@@ -1,6 +1,4 @@
 ![PinkHeartss Banner](Banner.png)
-![Nami Wanted Poster](image_4xguAQ.png)
-
 <p align="center">
   <ins> ୨୧ </ins>
 </p>
@@ -26,4 +24,8 @@
 <p align="center">
   <strong><em><font color="#f3b490">Minor</font></em></strong>
 </p>
+
+
+![Nami Wanted Poster](image_4xguAQ.png)
+
 
