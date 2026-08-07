@@ -40,4 +40,4 @@ $$ \color{#f3b490}{\text{!Minor!}} $$
 
 ![Nami Wanted Poster](image_4xguAQ.png)
 <p align="center">
-  <font color="#f3b490">.꒷`︶꒦꒷︶`꒷‎</font>
+  <font color="#f3b490">.꒷`︶꒦꒷︶꒷꒦︶`꒷‎.</font>
