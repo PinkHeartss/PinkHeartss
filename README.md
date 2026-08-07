@@ -24,7 +24,7 @@ $$ \color{#f3b490}{\text{Sanami shipper}} $$
 </p>
 
 <p align="center">
-  ◝(⑅•ᴗ•⑅)◜..°♡
+  ◝( ⑅•ᴗ<⑅ )◜..°♡
 </p>
 
 <p align="center">
