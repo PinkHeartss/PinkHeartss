@@ -1,7 +1,4 @@
 ![PinkHeartss Banner](Banner.png)
-<p align="center">
-  <img src="image_evRqcR.png" alt="Nami Wanted Poster" width="300">
-</p>
 
 <p align="center">
   <sub>୨୧</sub>
