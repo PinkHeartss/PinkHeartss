@@ -1,8 +1,5 @@
 ![PinkHeartss Banner](Banner.png)
 ![Nami Wanted Poster](image_4xguAQ.png)
-<p align="center">
-  <img src="image_evRqcR.png" alt="Nami Wanted Poster" width="300">
-</p>
 
 <p align="center">
   <ins> ୨୧ </ins>
@@ -21,7 +18,7 @@
 </p>
 
 <p align="center">
-  ◝(⑅•ᴗ•⑅)◜..°♡
+  ◝( •^< )
 </p>
 
 <hr style="border: 0; height: 1px; background: #f3b490; max-width: 50%;">
