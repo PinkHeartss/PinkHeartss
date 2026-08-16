@@ -5,18 +5,18 @@
 
 <br>
 
-<!-- 2. Pink Ribbon Coquette Divider Loops -->
-୨୧ ── ୨୧ ── ୨୧
+<!-- 2. Divider Loops Styled in Pink -->
+<font color="#ff1493">୨୧ ── ୨୧ ── ୨୧</font>
 
 <br><br>
 
 <!-- 3. Stylized Layout Title in Cursive Script -->
-𝓓𝓲𝓿𝓪 𝓸𝓯 𝓗𝓮𝓪𝓻𝓽𝓼
+𝓓𝓲𝓿𝓪 𝓸𝓯 <b>𝓗𝓮𝓪𝓻𝓽𝓼</b>
 
 <br>
 
-<!-- 4. Ribbon Text Border Divider Line -->
-~─── ୨୧ ─────────────────────── ୨୧ ───~
+<!-- 4. Text Border Divider Line Styled in Pink -->
+<font color="#ff1493">~─── ୨୧ ─────────────────────── ୨୧ ───~</font>
 
 <br>
 
@@ -25,7 +25,7 @@
 
 <br><br>
 
-<!-- 6. Requested Kaomoji Face with Bows -->
+<!-- 6. Requested Kaomoji Face with Pink Bows -->
 <font color="#ff1493">୨୧°( › × ‹ )°୨୧</font>
 
 <br><br>
@@ -34,3 +34,4 @@
 <font color="#ff1493">!𝓶𝓲𝓷𝓸𝓻!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#ff1493">𝓼𝓱𝓮/𝓱𝓮𝓻</font>
 
 </div>
+
