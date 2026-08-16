@@ -2,42 +2,14 @@
   <font color="#f3b490">⏝꒷︶ ͡𑁬⁠♡໒ ͡ ︶꒷⏝</font>
 
   ![PinkHeartss Banner](Banner.png)
+<center>
+<div style="color:#FF69B4;">
 
-<p align="center">
-  <sub>୨୧</sub>
-</p>
+pink of hearts
 
-<p align="center">
+(っ ˘ ³ ˘ )っ ... ♡
+***
+**!minor!**
 
-$$ \color{#f3b490}{\text{Nami kin}} $$
-
-</p>
-
-<p align="center">
-  ~
-</p>
-
-<p align="center">
-
-$$ \color{#f3b490}{\text{Sanami shipper}} $$
-
-</p>
-
-<p align="center">
-  ◝( ⑅•ᴗ<⑅ )◜..°♡
-</p>
-
-<p align="center">
-  <font color="#f3b490">———————————————</font>
-</p>
-
-<p align="center">
-
-$$ \color{#f3b490}{\text{!Minor!}} $$
-
-</p>
-
-
-![Nami Wanted Poster](image_4xguAQ.png)
-<p align="center">
-  <font color="#f3b490">.꒷`︶꒦꒷︶꒷꒦︶`꒷‎.</font>
+</div>
+</center>
