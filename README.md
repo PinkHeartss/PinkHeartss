@@ -2,14 +2,10 @@
   <font color="#f3b490">⏝꒷︶ ͡𑁬⁠♡໒ ͡ ︶꒷⏝</font>
 
   ![PinkHeartss Banner](Banner.png)
-<center>
-<div style="color:#FF69B4;">
 
-pink of hearts
+[#FF69B4]pink of hearts[/]
 
-(っ ˘ ³ ˘ )っ ... ♡
-***
-**!minor!**
+[#FF69B4](っ ˘ ³ ˘ )っ ... ♡[/]
+[#FF69B4]________________________[/]
 
-</div>
-</center>
+[#FF69B4]!minor![/]
