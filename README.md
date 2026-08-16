@@ -5,33 +5,33 @@
 
 <br>
 
-<!-- 2. Divider Loops Styled in Pink -->
-<font color="#ff1493">୨୧ ── ୨୧ ── ୨୧</font>
+<!-- 2. Sparkly Divider Loops -->
+%#ff1493%✧⁺ ୨୧ ── ✧ ── ୨୧ ⁺✧%%
 
 <br><br>
 
-<!-- 3. Stylized Layout Title in Cursive Script -->
-𝓓𝓲𝓿𝓪 𝓸𝓯 <b>𝓗𝓮𝓪𝓻𝓽𝓼</b>
+<!-- 3. Stylized Layout Title -->
+%#ff1493%⊹˚₊ 𝓓𝓲𝓿𝓪 𝓸𝓯 𝓗𝓮𝓪𝓻𝓽𝓼 ₊˚⊹%%
 
 <br>
 
-<!-- 4. Text Border Divider Line Styled in Pink -->
-<font color="#ff1493">~─── ୨୧ ─────────────────────── ୨୧ ───~</font>
+<!-- 4. Sparkly Border Divider Line -->
+%#ff1493%~─── ✧ ── ୨୧ ──────────────── ୨୧ ── ✧ ───~%%
 
 <br>
 
-<!-- 5. Profile Details in Vibrant Pink Text Styling -->
-<font color="#ff1493">𝓚𝓲𝓷</font>
+<!-- 5. Profile Details -->
+%#ff1493%𝓚𝓲𝓷%%
 
 <br><br>
 
-<!-- 6. Requested Kaomoji Face with Pink Bows -->
-<font color="#ff1493">୨୧°( › × ‹ )°୨୧</font>
+<!-- 6. Kaomoji Face with Bows and Sparkles -->
+%#ff1493%✧*̥ ୨୧°( › × ‹ )°୨୧ *̥✧%%
 
 <br><br>
 
-<!-- 7. Status and Pronouns in Vibrant Pink Text Styling -->
-<font color="#ff1493">!𝓶𝓲𝓷𝓸𝓻!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#ff1493">𝓼𝓱𝓮/𝓱𝓮𝓻</font>
+<!-- 7. Status and Pronouns -->
+%#ff1493%⊹ !𝓶𝓲𝓷𝓸𝓻! ⊹%% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; %#ff1493%⊹ 𝓼𝓱𝓮/𝓱𝓮𝓻 ⊹%%
 
 </div>
 
