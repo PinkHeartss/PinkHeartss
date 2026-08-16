@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- 1. Custom Pink Overlay Graphic -->
-<img src="YOUR_UPLOADED_IMAGE_URL.png" width="85%" alt="Pink Profile Graphic">
+<img src=![PinkHeartss Banner](Banner.png)" width="85%" alt="Pink Profile Graphic">
 
 <br>
 
