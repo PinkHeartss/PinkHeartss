@@ -1,5 +1,4 @@
-<img src="https://shields.io" alt="Status">
-
+![Status](https://shields.io)
 
 <img src="YOUR_UPLOADED_IMAGE_URL.png" width="100%">
 
