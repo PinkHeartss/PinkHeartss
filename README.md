@@ -1,5 +1,3 @@
-[Status](https://github.com)
-
 
 <div align="center">
 
