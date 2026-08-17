@@ -1,4 +1,4 @@
-<img src="https://shields.io" alt="Status">
+![Status](https://shields.io)
 
 
 
