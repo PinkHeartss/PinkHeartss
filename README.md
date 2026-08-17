@@ -1,5 +1,5 @@
-![Status](https://shields.io💖Heart-passing-ff69b4?style=flat&logo=github)
-<div align="center">
+<img src="https://shields.io" alt="Status">
+
 
 <img src="YOUR_UPLOADED_IMAGE_URL.png" width="100%">
 
