@@ -1,4 +1,5 @@
-![Status](../../actions/workflows/status.yml/badge.svg)
+![Status](../../actions/workflows/status.yml/badge.svg?color=ff69b4)
+
 
 
 
