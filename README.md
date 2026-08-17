@@ -1,4 +1,4 @@
-![Status](https://shields.io)
+![Status](../../actions/workflows/status.yml/badge.svg?color=ff69b4)
 
 
 
