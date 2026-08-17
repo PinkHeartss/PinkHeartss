@@ -1,4 +1,4 @@
-![Status](https://shields.io)%20
+![Status](https://shields.io)
 
 
 
