@@ -1,6 +1,6 @@
 ![Status](https://badgen.net)
 
-<img src="YOUR_UPLOADED_IMAGE_URL.png" width="100%">
+ <img src="YOUR_UPLOADED_IMAGE_URL.png" width="100%">
 
 <br>
 
