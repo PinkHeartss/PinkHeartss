@@ -1,4 +1,4 @@
-![Status](../../actions/workflows/status.yml/badge.svg?color=ff69b4)
+<img src="https://shields.io" alt="Status">
 
 
 
