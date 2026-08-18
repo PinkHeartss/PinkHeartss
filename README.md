@@ -13,12 +13,9 @@ $\color{#ff1493}{\text{⊹˚₊ 𝓟𝓲𝓷𝓴 𝓸𝓯 𝓗𝓮𝓪𝓻𝓽�
 
 
 <img src="Banner.png" width="100%">
-
-
 <br>
 
 $\color{#ff1493}{\text{𝓚𝓲𝓷}}$
-
 
 <br><br>
 
