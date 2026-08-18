@@ -1,7 +1,6 @@
 
 <div align="center">
 
-
 <br>
 
 $\color{#ff1493}{\text{✧⁺ ୨୧ ── ✧ ── ୨୧ ⁺✧}}$
