@@ -31,4 +31,4 @@ $\color{#ff1493}{\text{⊹ !𝓶𝓲𝓷𝓸𝓻! ⊹}}$ &nbsp;&nbsp;&nbsp;&nbsp
 
 </div>
 
-
+<img src="Banners.png" width="100%">
