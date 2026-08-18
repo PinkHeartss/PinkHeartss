@@ -1,8 +1,0 @@
-name: Princess Heart
-on: [push]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "Everything looks good!"
-      
