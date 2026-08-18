@@ -1,7 +1,6 @@
 
 <div align="center">
 
-<img src="YOUR_UPLOADED_IMAGE_URL.png" width="100%">
 
 <br>
 
